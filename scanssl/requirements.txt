@@ -1,0 +1,2 @@
+ak-M2Crypto==0.24.0
+python-nmap==0.6.1
